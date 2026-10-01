@@ -216,3 +216,14 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Data
+data/
+
+# Trained models
+models/
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
