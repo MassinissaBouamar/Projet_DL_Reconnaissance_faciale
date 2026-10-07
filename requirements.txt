@@ -8,5 +8,7 @@ jupyter
 kagglehub
 pillow
 pandas
+ultralytics
+opencv-python
 
 
